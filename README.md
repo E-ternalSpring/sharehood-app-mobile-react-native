@@ -10,7 +10,7 @@ The project was created to demonstrate knowledge of modern mobile application de
 
 ## 📸 Screenshots
 
-![Screeshots](./assets/screenshots/ShareHood.png)
+![Screenshots](./assets/screenshots/ShareHood.png)
 
 ---
 
